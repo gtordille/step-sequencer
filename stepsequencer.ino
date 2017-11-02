@@ -1,3 +1,4 @@
+// this is a step sequencer
 #include <EEPROM.h>
 
 int buttonPinArray[4] = { 32, 31, 30, 29 };
